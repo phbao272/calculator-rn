@@ -1,8 +1,6 @@
 # calculator-rn
 
 ### Bài tập thực hành
-![rsz_3](https://user-images.githubusercontent.com/86874072/158921006-46f1f781-6c5b-467a-abed-f1f926b97cf6.jpg)
-![rsz_24](https://user-images.githubusercontent.com/86874072/158921004-6ca92e2d-8a91-497a-8959-cc346b4faaf4.jpg)
 
-![rsz_12](https://user-images.githubusercontent.com/86874072/158921009-3a732d4e-8dba-4d55-9a5a-e303501188d5.jpg)
-![rsz_11](https://user-images.githubusercontent.com/86874072/158921010-7fee6bae-fa33-4400-a2bf-449861d33883.jpg)
+![rsz_z3270724042875_1e0001a7b0053416d820db5ea44b9740](https://user-images.githubusercontent.com/86874072/159017425-77261510-7d97-4888-a18f-d4c8d589bed1.jpg)
+![rsz_z3270724049687_125df130bf86ca6d7f3c3cc218c9611b](https://user-images.githubusercontent.com/86874072/159017630-f598a4ac-c7b5-416a-ac7b-f9bec79ef6fa.jpg)
