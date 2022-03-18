@@ -57,7 +57,7 @@ export default function App() {
                 try {
                     const res = eval(expression)
                     setCheckCalc(true)
-                    setResult(res.toString())
+                    // setResult(res.toString())
                     setResult(Math.round(res * 1000000000) / 1000000000)
                 } catch {
                     setResult('Syntax error')
