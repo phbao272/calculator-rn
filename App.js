@@ -102,13 +102,13 @@ export default function App() {
                 </Text>
             </View>
             {/* AC button -- clear all*/}
-            <View style={{ alignItems: 'flex-end' }}>
+            <View style={{ alignItems: 'flex-end', marginBottom: 12 }}>
                 <TouchableOpacity
                     onPress={() => handlePressButton({ action: 'CLEAR_ALL' })}
                 >
                     <Image
                         source={removeImg}
-                        style={{ width: 40, height: 40, marginRight: 32 }}
+                        style={{ width: 40, height: 40, marginRight: 24 }}
                     />
                 </TouchableOpacity>
             </View>

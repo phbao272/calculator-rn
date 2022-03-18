@@ -8,7 +8,7 @@ export const BTN_ACTIONS = {
 
 export const btns = [
     {
-        display: 'C',
+        display: 'DEL',
         action: BTN_ACTIONS.DELETE,
         class: 'btn__op',
     },
