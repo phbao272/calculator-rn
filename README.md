@@ -1,5 +1,7 @@
 # calculator-rn
 
+## [Video DEMO](https://drive.google.com/file/d/1VjOH46vhIr0lQ1T63JUuy1-7YP87yDHF/view?usp=sharing)
+
 ### Bài tập thực hành
 
 ![rsz_z3270724042875_1e0001a7b0053416d820db5ea44b9740](https://user-images.githubusercontent.com/86874072/159017425-77261510-7d97-4888-a18f-d4c8d589bed1.jpg)
